@@ -1,0 +1,6 @@
+{
+  "name": "SkillGap AI",
+  "description": "AI-Powered Student Skill Gap Analyzer that evaluates student skills against industry career benchmarks and builds personalized learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
